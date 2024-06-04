@@ -1,6 +1,6 @@
-![Result](https://github.com/konstantinsteinmiller/nuxt-admin/blob/master/images/light.png)
+![Result](https://github.com/konstantinsteinmiller/nuxt-admin/blob/master/assets/images/light.png)
 
-![Result](https://github.com/konstantinsteinmiller/nuxt-admin/blob/master/images/dark.png)
+![Result](https://github.com/konstantinsteinmiller/nuxt-admin/blob/master/assets/images/dark.png)
 
 ```bash
 # npm
